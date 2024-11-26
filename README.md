@@ -134,7 +134,7 @@ plt.show()
 ## 📬 **Contato e Contribuição**  
 
 Dúvidas, sugestões ou colaborações são bem-vindas!  
-- **E-mail**: seu-email@exemplo.com  
-- **LinkedIn**: [Seu Perfil](https://www.linkedin.com/in/seu-perfil/)  
+- **E-mail**: gabrielindio.i.c.2000@outlook.com  
+- **LinkedIn**: https://www.linkedin.com/in/gabriel-%C3%A2ndreas-16a649285 
 
 Contribua com este projeto enviando pull requests ou abrindo issues. 😊  
